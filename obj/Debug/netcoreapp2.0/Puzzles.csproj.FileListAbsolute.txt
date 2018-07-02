@@ -1,0 +1,10 @@
+/home/ali/codingDojo/c#/Puzzles/bin/Debug/netcoreapp2.0/Puzzles.deps.json
+/home/ali/codingDojo/c#/Puzzles/bin/Debug/netcoreapp2.0/Puzzles.runtimeconfig.json
+/home/ali/codingDojo/c#/Puzzles/bin/Debug/netcoreapp2.0/Puzzles.runtimeconfig.dev.json
+/home/ali/codingDojo/c#/Puzzles/bin/Debug/netcoreapp2.0/Puzzles.dll
+/home/ali/codingDojo/c#/Puzzles/bin/Debug/netcoreapp2.0/Puzzles.pdb
+/home/ali/codingDojo/c#/Puzzles/obj/Debug/netcoreapp2.0/Puzzles.csproj.CoreCompileInputs.cache
+/home/ali/codingDojo/c#/Puzzles/obj/Debug/netcoreapp2.0/Puzzles.AssemblyInfoInputs.cache
+/home/ali/codingDojo/c#/Puzzles/obj/Debug/netcoreapp2.0/Puzzles.AssemblyInfo.cs
+/home/ali/codingDojo/c#/Puzzles/obj/Debug/netcoreapp2.0/Puzzles.dll
+/home/ali/codingDojo/c#/Puzzles/obj/Debug/netcoreapp2.0/Puzzles.pdb
